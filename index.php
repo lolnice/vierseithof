@@ -29,11 +29,10 @@
 			<div id="wrapper">
 				<div id="header">
 					<div id="logo">
-						<img src="img/logo.jpg" alt="Vierseithof" >
+						<a href="index.php?sub=startseite"><img src="img/logo.jpg" alt="Vierseithof" ></a>
 					</div>
 					<div id="navi">
 						<ul id="navlist">
-							<li><a href="index.php?sub=startseite">Startseite</a></li>
 							<li><a href="index.php?sub=ferienwohnungen">Ferienwohnungen</a></li>
 							<li><a href="index.php?sub=vierseithof">Vierseithof</a></li>
 							<li><a href="index.php?sub=umgebung">Umgebung</a></li>
