@@ -12,6 +12,9 @@
 					</ul>
 					<h2>Weiterhin bieten sich u.a. für einen Besuch an:</h2>
 					<ul>
+						<li>Spreewald-Therme</li>
+						<li>Fläming-Therme</li>
+						<li>Freibad Elsthal</li>
 						<li>Schloss Wiepersdorf</li>
 						<li>Das Freizeitgebiet Körbaer See</li>
 						<li>Der Wildpark Johannismühle</li>
@@ -22,6 +25,7 @@
 					</ul>
 					<p>Wer sich sportlich betätigen möchte, findet in Dahme ein Tennis-Center und Freibad, in Senftenberg eine Skihalle, auch Walking und Nordic-Walking sind in der Umgebung und auf dem Flaeming-Walk möglich.</p>
 					<p>Angel- und Jagdmöglichkeiten (Reh-, Rot- und Schwarzwild) vorhanden.					Pilze sammeln ganz in der Nähe.</p>
+					<p>Immer einen Besuch wert sind die Thermalbäder "Spreewaldtherme" und "Fläming Therme" mit Saunalandschaft und Therapiebecken. Ein Freibad finden Sie in Luckenwalde <a href="http://www.freibad-elsthal.de/" alt="http://www.freibad-elsthal.de/">(Freibad Elsthal)</a>.</p>
 					<p>Weitere Infos/Prospekte für Ihre Freizeitgestaltung bieten wir Ihnen gerne vor Ort!</p>
 				</div>
 				<div class="box_image_right">
@@ -29,6 +33,12 @@
 				</div>
 				<div class="box_text_right"><p>Die &laquo; Flaeming-Skate &raquo; (Deutschlands längster Rad- und Skateweg, ca. 200 km) ist bequem von unserem Haus aus erreichbar!</p>
 				<p class="smaller">(Bild von Lienhard Schulz)</p>
+				</div>
+				<div class="box_image_right">
+					<img src="img/spreewald_therme.jpg" alt="Spreewaldtherme" >
+				</div>
+				<div class="box_text_right"><p>In der Wellness- und gesundheitsorientierten Spreewald Therme verfliegen die Sorgen und Beschwerden des Alltags wie von alleine.</p>
+				<p class="smaller">(Bild von http://www.spreewald-therme.vis.de/)</p>
 				</div>
 				<div class="clearer"></div>
 			</div>

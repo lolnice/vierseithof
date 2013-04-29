@@ -241,6 +241,11 @@ html, body
 		font-family: Verdana, sans-serif;		
 	}
 	
+#content_wrapper td span.smaller
+	{
+		font-size: 11px;
+	}
+	
 #content_wrapper p.author
 	{
 		margin-top: 0px;

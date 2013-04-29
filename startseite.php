@@ -20,8 +20,12 @@
 							<td>Sigrid Heumann</td>
 						</tr>
 						<tr>
-							<td>Tel/Fax:</td>
+							<td>Tel/Fax: <span class="smaller">(Rietdorf)</span></td>
 							<td>035451-18664</td>
+						</tr>
+						<tr>
+							<td>Tel/Fax: <span class="smaller">(Löhnberg)</span></td>
+							<td>06471-61231</td>
 						</tr>
 						<tr>
 							<td>Email:</td>

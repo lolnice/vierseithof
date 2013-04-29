@@ -42,6 +42,16 @@
 								<p class="link_p">Tropical Islands<br/><a href="http://www.my-tropical-islands.com/" alt="http://www.my-tropical-islands.com/">hier klicken</a></p>
 							</td>
 						</tr>
+						<tr>
+							<td>
+								<div class="link_pic"><img src="img/link_spreetherme.png" alt=""></div>
+								<p class="link_p">Spreewald-Therme<br/><a href="http://www.spreewald-therme.vis.de/" alt="http://www.spreewald-therme.vis.de/">hier klicken</a></p>
+							</td>
+							<td>
+								<div class="link_pic"><img src="img/link_flaeming.png" alt=""></div>
+								<p class="link_p">Fläming-Therme<br/><a href="http://www.flaeming-therme.de/" alt="http://www.flaeming-therme.de/">hier klicken</a></p>
+							</td>
+						</tr>
 					</table></div>					
 				<div class="clearer"></div>
 			</div>
